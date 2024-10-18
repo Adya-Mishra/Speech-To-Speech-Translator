@@ -1,0 +1,8 @@
+streamlit
+SpeechRecognition
+gtts
+googletrans
+playsound
+pyaudio
+google_trans_new
+base64
