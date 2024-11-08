@@ -41,8 +41,8 @@ The **Speech-to-Speech Translator** app is designed to help users translate spok
 1. **Clone the Repository**:
    
    ```bash
-   git clone https://github.com/your-username/speech-to-speech-translator.git
-   cd speech-to-speech-translator
+   git clone https://github.com/Adya-Mishra/Speech-To-Speech-Translator.git
+   cd Speech-To-Speech-Translator
 
 3. **Install Required Dependencies**:
 
